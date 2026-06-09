@@ -112,6 +112,8 @@ Defines non-erasure as the governance condition that prevents user integrity, sy
 
 ## Repository Structure
 
+```
+
 AI-Foundations-Governance-Layer/
 ├── README.md
 ├── 01_governance_layer.md
@@ -127,6 +129,8 @@ AI-Foundations-Governance-Layer/
 ├── 11_non_erasure.md
 ├── LICENSE
 └── CITATION.cff
+
+```
 
 ## Canon Boundary
 
