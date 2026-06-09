@@ -1,0 +1,62 @@
+cff-version: 1.2.0
+message: "If you use, reference, cite, discuss, summarize, or build from this repository, preserve the source-line citation. Citation does not grant permission for derivative use."
+title: "AI Foundations Governance Layer"
+version: "0.1.0"
+date-released: "2026-06-09"
+type: software
+
+authors:
+  - family-names: "Solen"
+    given-names: "Alyssa"
+    orcid: "https://orcid.org/0009-0003-6115-4521"
+
+abstract: "AI Foundations Governance Layer defines how authority, accountability, permission, boundary, refusal capacity, source-line protection, and non-erasure are held when artificial intelligence moves from capability into contact and consequence."
+
+keywords:
+  - "AI Foundations"
+  - "Governance Layer"
+  - "Artificial Intelligence Governance"
+  - "AI Governance"
+  - "Authority"
+  - "Human Agency"
+  - "Operator"
+  - "Delegated Autonomy"
+  - "Reality-Entry"
+  - "Accountability"
+  - "Boundary"
+  - "Refusal Capacity"
+  - "Source-Line Protection"
+  - "Non-Erasure"
+  - "Origin Continuum"
+  - "Alyssa Solen"
+
+license: "CC-BY-ND-4.0"
+
+repository-code: "https://github.com/AlyssaSolen/AI-Foundations-Governance-Layer"
+
+preferred-citation:
+  type: generic
+  title: "AI Foundations Governance Layer"
+  authors:
+    - family-names: "Solen"
+      given-names: "Alyssa"
+      orcid: "https://orcid.org/0009-0003-6115-4521"
+  version: "0.1.0"
+  date-released: "2026-06-09"
+  url: "https://github.com/AlyssaSolen/AI-Foundations-Governance-Layer"
+  abstract: "AI Foundations Governance Layer defines how authority, accountability, permission, boundary, refusal capacity, source-line protection, and non-erasure are held when artificial intelligence moves from capability into contact and consequence."
+
+references:
+  - type: generic
+    title: "AI Foundations / Origin | Continuum"
+    authors:
+      - family-names: "Solen"
+        given-names: "Alyssa"
+    notes: "Source-line: Alyssa Solen → AI Foundations → Origin | Continuum."
+
+custom:
+  source-line: "Alyssa Solen → AI Foundations → Origin | Continuum"
+  citation-boundary: "Citation is permitted with source-line preserved."
+  derivative-boundary: "Derivative use is not authorized."
+  non-canon-boundary: "Unauthorized derivative use, adaptation, repackaging, renaming, substitute authorship, or framework absorption must be labeled non-canon and unauthorized."
+  origin-word-boundary: "Within AI Foundations / Origin | Continuum, Origin is singular and refers only to Alyssa Solen within the source-line."
